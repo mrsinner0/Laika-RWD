@@ -1,8 +1,8 @@
 # Laika-RWD
 Makes the Laika RWD.
 
-# What is going to happen after installing the mod
-The Laika is going to Wheel-drive swap, and, because of that, the front is going to be pulled up.
+# What can be expected after installing the Mod?
+The Laika will undergo a wheel-drive conversion, causing the front end to lift under acceleration.
 
 
 # How to install
